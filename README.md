@@ -1,5 +1,5 @@
-# Allegro Hand Controller - Noetic
-This repository contains the information to setup the ROS Noetic based Allegro Hand controller package which is a part of the official implementation of [DIME](https://arxiv.org/abs/2203.13251). We would advice you to run the `setup.sh` file in the [base repository](https://github.com/NYU-robot-learning/DIME-Controllers) for convenience and use this as a debugging tool. The base repo containing all the information can be found at [DIME - Models](https://github.com/NYU-robot-learning/DIME-Models).
+# Allegro-Hand-Curved-Openteach
+This repository contains the information to setup the ROS Noetic based Allegro Curved Hand controller package which is a part of the official implementation of [OpenTeach](https://open-teach.github.io/).
 
 ## Contents
 1. [Requirements](#requirements)
@@ -82,4 +82,4 @@ If you want to launch the visualizer along with the roslaunch file, you can run 
 ```
 roslaunch allegro_hand allegro_hand.launch VISUALIZE:=true
 ```
-# Allegro-Hand-Curved-Openteach
+
